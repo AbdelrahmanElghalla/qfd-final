@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "883095695149",
+    "firebase_url": "https://qfdapp.firebaseio.com",
+    "project_id": "qfdapp",
+    "storage_bucket": "qfdapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883095695149:android:f53269ae8bee9cb9aceda4",
+        "android_client_info": {
+          "package_name": "QFD.qfd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883095695149-5m6dfji6mapv4n0afhjkiru9r7s3kuqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXk6gn3NuwHtNexBnHcd8AyhGq73rCv18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883095695149-5m6dfji6mapv4n0afhjkiru9r7s3kuqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
